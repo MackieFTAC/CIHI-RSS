@@ -1,2 +1,68 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CIHI Data Tables</title><link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link><description>Latest CIHI data tables published online.</description><atom:link href="https://www.cihi.ca/en/access-data-and-reports/data-tables" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 03 Feb 2025 17:59:29 +0000</lastBuildDate><item><title>Treatment of End-Stage Organ Failure in Canada, Canadian Organ Replacement Register, 2014 to 2023: Dialysis and Pre-emptive Kidney Transplant — Data Tables</title><link>https://www.cihi.ca/sites/default/files/document/dialysis-and-preemptive-kidney-transplant-2014-2023-data-tables-en.xlsx</link><description>New dataset: Treatment of End-Stage Organ Failure in Canada, Canadian Organ Replacement Register, 2014 to 2023: Dialysis and Pre-emptive Kidney Transplant — Data Tables</description><pubDate>Mon, 03 Feb 2025 17:59:29 +0000</pubDate></item><item><title>Professional Fees in the Pharmaceutical Data Tool</title><link>https://www.cihi.ca/sites/default/files/document/professional-fees-data-tables-en.xlsx</link><description>New dataset: Professional Fees in the Pharmaceutical Data Tool</description><pubDate>Mon, 03 Feb 2025 17:59:29 +0000</pubDate></item><item><title>Markup Policies in the Pharmaceutical Data Tool</title><link>https://www.cihi.ca/sites/default/files/document/markup-policies-data-tables-en.xlsx</link><description>New dataset: Markup Policies in the Pharmaceutical Data Tool</description><pubDate>Mon, 03 Feb 2025 17:59:29 +0000</pubDate></item><item><title>Reimbursement Policies in the Pharmaceutical Data Tool</title><link>https://www.cihi.ca/sites/default/files/document/reimbursement-policies-data-tables-en.xlsx</link><description>New dataset: Reimbursement Policies in the Pharmaceutical Data Tool</description><pubDate>Mon, 03 Feb 2025 17:59:29 +0000</pubDate></item><item><title>Drug Programs in the Pharmaceutical Data Tool</title><link>https://www.cihi.ca/sites/default/files/document/drug-program-data-tables-en.xlsx</link><description>New dataset: Drug Programs in the Pharmaceutical Data Tool</description><pubDate>Mon, 03 Feb 2025 17:59:29 +0000</pubDate></item><item><title>Spending on Biologic Drugs in the Pharmaceutical Data Tool</title><link>https://www.cihi.ca/sites/default/files/document/spending-biologic-drugs-pharm-data-tool-data-tables-en.xlsx</link><description>New dataset: Spending on Biologic Drugs in the Pharmaceutical Data Tool</description><pubDate>Mon, 03 Feb 2025 17:59:29 +0000</pubDate></item><item><title>Spending on High-Cost Drugs in the Pharmaceutical Data Tool</title><link>https://www.cihi.ca/sites/default/files/document/spending-high-cost-drugs-pharm-data-tool-data-tables-en.xlsx</link><description>New dataset: Spending on High-Cost Drugs in the Pharmaceutical Data Tool</description><pubDate>Mon, 03 Feb 2025 17:59:29 +0000</pubDate></item><item><title>Prescribed Drug Use Among Seniors in the Pharmaceutical Data Tool</title><link>https://www.cihi.ca/sites/default/files/document/prescribed-drug-use-seniors-pharm-data-tool-data-tables-en.xlsx</link><description>New dataset: Prescribed Drug Use Among Seniors in the Pharmaceutical Data Tool</description><pubDate>Mon, 03 Feb 2025 17:59:29 +0000</pubDate></item><item><title>Formulary Coverage in the Pharmaceutical Data Tool</title><link>https://www.cihi.ca/sites/default/files/document/formulary-coverage-data-tool-data-table-en.xlsx</link><description>New dataset: Formulary Coverage in the Pharmaceutical Data Tool</description><pubDate>Mon, 03 Feb 2025 17:59:29 +0000</pubDate></item><item><title>Prescribed Drug Spending in the Pharmaceutical Data Tool</title><link>https://www.cihi.ca/sites/default/files/document/prescribed-drug-spending-pharm-data-tool-data-tables-en.xlsx</link><description>New dataset: Prescribed Drug Spending in the Pharmaceutical Data Tool</description><pubDate>Mon, 03 Feb 2025 17:59:29 +0000</pubDate></item></channel></rss>
+<rss version="2.0">
+  <channel>
+    <title>CIHI Data Tables RSS Feed</title>
+    <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
+    <description>Updates on new data tables published by CIHI.</description>
+    <lastBuildDate>Mon, 03 Feb 2025 19:09:40 GMT</lastBuildDate>
+    <item>
+      <title>Prescribed Drug Spending in the Pharmaceutical Data Tool</title>
+      <link>https://www.cihi.ca/sites/default/files/document/prescribed-drug-spending-pharm-data-tool-data-tables-en.xlsx</link>
+      <description>Public drug program spending accounted for 44% of prescribed drug spending in Canada in 2021. Public drug program spending does not include spending on drugs dispensed in hospitals or on drugs funded through cancer agencies and other special programs.</description>
+      <pubDate>Thu, 23 Jan 2025 16:08:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Formulary Coverage in the Pharmaceutical Data Tool</title>
+      <link>https://www.cihi.ca/sites/default/files/document/formulary-coverage-data-tool-data-table-en.xlsx</link>
+      <description>A formulary is a list of the drugs covered for eligible populations, and the type of coverage provided. Every public drug plan or program in Canada has a unique formulary.</description>
+      <pubDate>Thu, 23 Jan 2025 16:06:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prescribed Drug Use Among Seniors in the Pharmaceutical Data Tool</title>
+      <link>https://www.cihi.ca/sites/default/files/document/prescribed-drug-use-seniors-pharm-data-tool-data-tables-en.xlsx</link>
+      <description>On average, seniors have a higher number of chronic conditions, and as a result they are prescribed a higher number of drugs than other age groups. The use of multiple drugs is associated with a higher risk of emergency department (ED) visits and…</description>
+      <pubDate>Thu, 23 Jan 2025 16:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spending on High-Cost Drugs in the Pharmaceutical Data Tool</title>
+      <link>https://www.cihi.ca/sites/default/files/document/spending-high-cost-drugs-pharm-data-tool-data-tables-en.xlsx</link>
+      <description>Spending on high-cost chemicals (those with an average cost of $10,000 or more per person per year) accounts for a large proportion of total public drug program spending. Beneficiaries for whom a public drug program paid $10,000 or more can typically be…</description>
+      <pubDate>Thu, 23 Jan 2025 15:58:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spending on Biologic Drugs in the Pharmaceutical Data Tool</title>
+      <link>https://www.cihi.ca/sites/default/files/document/spending-biologic-drugs-pharm-data-tool-data-tables-en.xlsx</link>
+      <description>Biologic drugs, which are derived from living organisms, are structurally more complex and more expensive than traditional pharmaceuticals. Spending on biologics continues to increase in Canada, which has ranked third among Organisation for Economic Co-…</description>
+      <pubDate>Thu, 23 Jan 2025 15:55:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drug Programs in the Pharmaceutical Data Tool</title>
+      <link>https://www.cihi.ca/sites/default/files/document/drug-program-data-tables-en.xlsx</link>
+      <description>Public drug plans/programs provide drug coverage for a specific population. Federal, provincial and territorial governments offer many different drug plans/programs, most of which have defined criteria for eligibility that include things like age, income…</description>
+      <pubDate>Thu, 23 Jan 2025 15:53:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reimbursement Policies in the Pharmaceutical Data Tool</title>
+      <link>https://www.cihi.ca/sites/default/files/document/reimbursement-policies-data-tables-en.xlsx</link>
+      <description>Reimbursement policies specify the allowable limits that are placed on the costs for prescription drugs. These can include policies and limitations related to ingredient pricing, the maximum cost of generic drugs, coverage of drugs with lower-cost…</description>
+      <pubDate>Thu, 23 Jan 2025 15:41:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Markup Policies in the Pharmaceutical Data Tool</title>
+      <link>https://www.cihi.ca/sites/default/files/document/markup-policies-data-tables-en.xlsx</link>
+      <description>Markup policies outline the maximum amount a pharmacy can add to the cost of a drug or ingredient, above the original cost. This amount is usually stated as a percentage of the cost.</description>
+      <pubDate>Thu, 23 Jan 2025 15:27:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Professional Fees in the Pharmaceutical Data Tool</title>
+      <link>https://www.cihi.ca/sites/default/files/document/professional-fees-data-tables-en.xlsx</link>
+      <description>Professional fees are the amount paid to a service provider for their services. They’re typically paid to a pharmacist and include dispensing fees, compounding fees or any other special service fees. Each jurisdiction has its own policies for these fees.</description>
+      <pubDate>Thu, 23 Jan 2025 14:25:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Treatment of End-Stage Organ Failure in Canada, Canadian Organ Replacement Register, 2014 to 2023: Dialysis and Pre-emptive Kidney Transplant — Data Tables</title>
+      <link>https://www.cihi.ca/sites/default/files/document/dialysis-and-preemptive-kidney-transplant-2014-2023-data-tables-en.xlsx</link>
+      <description>These data tables contain information about trends in dialysis and pre-emptive transplantation for end-stage kidney disease patients, including incidence, prevalence and survival.</description>
+      <pubDate>Wed, 18 Dec 2024 22:28:49 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
