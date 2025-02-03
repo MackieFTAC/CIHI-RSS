@@ -1,0 +1,33 @@
+name: CIHI RSS Feed Updater
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs once every day at midnight UTC
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run RSS Feed Updater
+        run: node fetch_rss.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add rss.xml
+          git commit -m "Daily RSS feed update [skip ci]" || exit 0
+          git push
+
