@@ -12,6 +12,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Check files in workspace
+        run: ls -R
+
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
@@ -21,12 +24,13 @@ jobs:
         run: npm install
 
       - name: Run RSS Feed Updater
-        run: node fetch_rss.js  # Make sure this script correctly generates cihi_data_feed.xml
+        run: node fetch_rss.js
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add cihi_data_feed.xml  # Ensure correct file name
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add cihi_data_feed.xml
           git commit -m "Daily RSS feed update [skip ci]" || exit 0
           git push
+
