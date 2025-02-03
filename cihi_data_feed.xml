@@ -3,13 +3,7 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Mon, 03 Feb 2025 21:23:20 GMT</lastBuildDate>
-    <item>
-      <title>Testing</title>
-      <link>https://www.youtube.com/watch?v=xvFZjo5PgG0</link>
-      <description>Added manual test entry to cihi_data_feed.xml</description>
-      <pubDate>Mon, 03 Feb 2025 16:36:00 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Feb 2025 21:41:22 GMT</lastBuildDate>
     <item>
       <title>Prescribed Drug Spending in the Pharmaceutical Data Tool</title>
       <link>https://www.cihi.ca/sites/default/files/document/prescribed-drug-spending-pharm-data-tool-data-tables-en.xlsx</link>
