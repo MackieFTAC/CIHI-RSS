@@ -5,6 +5,12 @@
     <description>Updates on new data tables published by CIHI.</description>
     <lastBuildDate>Mon, 03 Feb 2025 21:07:04 GMT</lastBuildDate>
     <item>
+      <title> Testing </title>
+      <link>https://www.youtube.com/watch?v=xvFZjo5PgG0</link>
+      <description>Testing to see if Slack recieves notification</description>
+      <pubDate> Mon, 03 Feb 2025 16:20:00 GMT </pubDate>
+    </item>
+    <item>
       <title>Prescribed Drug Spending in the Pharmaceutical Data Tool</title>
       <link>https://www.cihi.ca/sites/default/files/document/prescribed-drug-spending-pharm-data-tool-data-tables-en.xlsx</link>
       <description>Public drug program spending accounted for 44% of prescribed drug spending in Canada in 2021. Public drug program spending does not include spending on drugs dispensed in hospitals or on drugs funded through cancer agencies and other special programs.</description>
