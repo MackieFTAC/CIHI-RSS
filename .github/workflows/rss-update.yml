@@ -40,3 +40,16 @@ jobs:
           curl -X POST -H 'Content-type: application/json' --data '{
             "text": "🚀 CIHI Data Tables have been updated! Check the latest updates here: <https://github.com/MackieFTAC/CIHI-RSS/blob/main/cihi_data_feed.xml>"
           }' ${{ secrets.SLACK_WEBHOOK_URL }}
+
+      - name: Send Email Notification to Slack
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "🚀 CIHI Data Tables Updated!"
+          body: "A new data table has been added. Check the latest updates here: https://github.com/MackieFTAC/CIHI-RSS/blob/main/cihi_data_feed.xml"
+          to: "rss-feed-cihi-data-ta-aaaaoyzr2hctpv2hj6hqbtdbnq@teamcanage.slack.com"
+          from: "mackenzie@canage.ca"
+
