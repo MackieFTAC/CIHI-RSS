@@ -34,3 +34,9 @@ jobs:
           git commit -m "Daily RSS feed update [skip ci]" || exit 0
           git push
 
+      - name: Send Slack Notification
+        if: success()
+        run: |
+          curl -X POST -H 'Content-type: application/json' --data '{
+            "text": "🚀 CIHI Data Tables have been updated! Check the latest updates here: <https://github.com/MackieFTAC/CIHI-RSS/blob/main/cihi_data_feed.xml>"
+          }' ${{ secrets.SLACK_WEBHOOK_URL }}
