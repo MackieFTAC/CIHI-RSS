@@ -51,5 +51,8 @@ jobs:
           subject: "🚀 CIHI Data Tables Updated!"
           body: "A new data table has been added. Check the latest updates here: https://github.com/MackieFTAC/CIHI-RSS/blob/main/cihi_data_feed.xml"
           to: "rss-feed-cihi-data-ta-aaaaoyzr2hctpv2hj6hqbtdbnq@teamcanage.slack.com"
-          from: "mackenzie@canage.ca"
+          from: ${{ secrets.SMTP_USERNAME }}
+          secure: true
+          ignore_cert: true
+          priority: high
 
