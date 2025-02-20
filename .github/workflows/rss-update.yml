@@ -41,18 +41,3 @@ jobs:
             "text": "🚀 CIHI Data Tables have been updated! Check the latest updates here: <https://github.com/MackieFTAC/CIHI-RSS/blob/main/cihi_data_feed.xml>"
           }' ${{ secrets.SLACK_WEBHOOK_URL }}
 
-      - name: Send Email Notification to Slack
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 587
-          username: ${{ secrets.SMTP_USERNAME }}
-          password: ${{ secrets.SMTP_PASSWORD }}
-          subject: "🚀 CIHI Data Tables Updated!"
-          body: "A new data table has been added. Check the latest updates here: https://github.com/MackieFTAC/CIHI-RSS/blob/main/cihi_data_feed.xml"
-          to: "rss-feed-cihi-data-ta-aaaaoyzr2hctpv2hj6hqbtdbnq@teamcanage.slack.com"
-          from: ${{ secrets.SMTP_USERNAME }}
-          secure: false
-          ignore_cert: true
-          priority: high
-
