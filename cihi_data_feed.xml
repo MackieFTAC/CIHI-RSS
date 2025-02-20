@@ -3,7 +3,25 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Fri, 14 Feb 2025 00:50:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 22:03:41 GMT</lastBuildDate>
+    <item>
+      <title>Hospitalization and Childbirth, 1995–1996 to 2023-2024 — Supplementary Statistics</title>
+      <link>https://www.cihi.ca/sites/default/files/document/hospital-childbirth-1995-2023-supplementary-data-tables-en.xlsx</link>
+      <description>​These data tables contain information on hospitalization volumes, lengths of stay and standardized rates. Tables also include childbirth indicators by place of residence.</description>
+      <pubDate>Thu, 20 Feb 2025 19:57:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inpatient Hospitalization, Surgery and Newborn Statistics, 2023-2024</title>
+      <link>https://www.cihi.ca/sites/default/files/document/dad-hmdb-childbirth-2023-2024-data-tables-en.xlsx</link>
+      <description>​​These data tables contain information on hospitalization rates, in-hospital births and the top reasons for hospitalizations and surgeries from the DAD and HMDB databases.</description>
+      <pubDate>Thu, 20 Feb 2025 19:54:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>NACRS Emergency Department Visits and Lengths of Stay by Province/Territory, 2024–2025  (Q1 to Q2) — Provisional Data</title>
+      <link>https://www.cihi.ca/sites/default/files/document/emergency-department-visits-apr-sep-2024-provisional-data-tables-en.xlsx</link>
+      <description>Release of 2024–2025 provisional information on emergency department (ED) visits and lengths of stay by province and territory, based on data submitted to the National Ambulatory Care Reporting System (NACRS).</description>
+      <pubDate>Thu, 20 Feb 2025 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Health Workforce in Canada, 2019 to 2023: Overview — Data Tables</title>
       <link>https://www.cihi.ca/sites/default/files/document/health-workforce-canada-2019-2023-overview-data-tables-en.xlsx</link>
