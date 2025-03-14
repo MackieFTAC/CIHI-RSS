@@ -3,7 +3,13 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Thu, 20 Feb 2025 22:03:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 00:53:26 GMT</lastBuildDate>
+    <item>
+      <title>Profile of Clients in Home Care, 2023–2024</title>
+      <link>https://www.cihi.ca/sites/default/files/document/home-care-quickstats-2023-2024-data-tables-en.xlsx</link>
+      <description>HCRS Quick Stats provide a profile of clients in home care in 2023-2024.</description>
+      <pubDate>Thu, 13 Mar 2025 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Hospitalization and Childbirth, 1995–1996 to 2023-2024 — Supplementary Statistics</title>
       <link>https://www.cihi.ca/sites/default/files/document/hospital-childbirth-1995-2023-supplementary-data-tables-en.xlsx</link>
