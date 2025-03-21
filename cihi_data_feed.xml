@@ -3,7 +3,19 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Fri, 14 Mar 2025 00:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 00:54:52 GMT</lastBuildDate>
+    <item>
+      <title>Induced Abortions Reported in Canada — Annual data tables</title>
+      <link>https://www.cihi.ca/sites/default/files/document/induced-abortions-canada-annual-data-tables-en.zip</link>
+      <description>These tables contain information on induced abortions in Canada from 2015 onward.</description>
+      <pubDate>Thu, 20 Mar 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Induced Abortions Reported in Canada in 2023</title>
+      <link>https://www.cihi.ca/sites/default/files/document/induced-abortions-reported-in-canada-2023-data-tables-en.xlsx</link>
+      <description>​These data tables provide information on induced abortions performed in a hospital or in a non-hospital setting in Canada. Volume breakdowns by age group and method of abortion are also included.</description>
+      <pubDate>Thu, 20 Mar 2025 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Profile of Clients in Home Care, 2023–2024</title>
       <link>https://www.cihi.ca/sites/default/files/document/home-care-quickstats-2023-2024-data-tables-en.xlsx</link>
