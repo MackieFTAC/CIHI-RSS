@@ -3,7 +3,13 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Fri, 11 Apr 2025 00:56:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 00:57:43 GMT</lastBuildDate>
+    <item>
+      <title>Care for Children and Youth With Mental Disorders — Data Tables</title>
+      <link>https://www.cihi.ca/sites/default/files/document/care-children-youth-with-mental-disorders-data-tables-en.xlsx</link>
+      <description>The data tables contain information on emergency department visits, hospitalizations, physician visits and medications for children and youth age 5 to 24 with mental disorders.</description>
+      <pubDate>Thu, 01 May 2025 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>CIHI Hospital Frailty Risk Measure, 2022-2023 to 2023-2024 - Data Tables</title>
       <link>https://www.cihi.ca/sites/default/files/document/cihi-hospital-frailty-risk-measure-2022-2023-to-2023-2024-data-tables-en.xlsx</link>
