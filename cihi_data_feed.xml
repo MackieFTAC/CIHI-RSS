@@ -3,7 +3,13 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Fri, 02 May 2025 00:57:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 00:58:55 GMT</lastBuildDate>
+    <item>
+      <title>Hospital Beds Staffed and In Operation, 2023–2024</title>
+      <link>https://www.cihi.ca/sites/default/files/document/beds-staffed-and-in-operation-2023-2024-data-tables-en.xlsx</link>
+      <description>These figures represent the beds and cribs available and staffed to provide services to inpatients at the required type and level of service during or at the beginning of the fiscal year.</description>
+      <pubDate>Thu, 22 May 2025 18:31:32 GMT</pubDate>
+    </item>
     <item>
       <title>Care for Children and Youth With Mental Disorders — Data Tables</title>
       <link>https://www.cihi.ca/sites/default/files/document/care-children-youth-with-mental-disorders-data-tables-en.xlsx</link>
