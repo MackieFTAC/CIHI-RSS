@@ -3,7 +3,25 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Thu, 12 Jun 2025 00:59:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 01:01:28 GMT</lastBuildDate>
+    <item>
+      <title>How Canada Compares: Results From the Commonwealth Fund’s 2024 International Health Policy Survey of Older Adults in 10 Countries — Data tables</title>
+      <link>https://www.cihi.ca/sites/default/files/document/cmwf-2024-data-tables-en.xlsx</link>
+      <description>This file contains Around 70 tables presenting results from the Commonwealth Fund&apos;s 2024 International Health Policy Survey of the general population age 65+, which was conducted in 10 countries.</description>
+      <pubDate>Fri, 27 Jun 2025 01:59:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Health Workforce in Canada, 2023 — Quick Stats</title>
+      <link>https://www.cihi.ca/sites/default/files/document/health-workforce-quickstats-2023-data-tables-en.xlsx</link>
+      <description>Interactive tool to visually compare trends for Canada’s health workforce by profession, plus vacancies and staffing indicators. Hospital staffing indicators updated as of June 26, 2025.</description>
+      <pubDate>Thu, 26 Jun 2025 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Canada Compares: Results From the Commonwealth Fund’s 2024 International Health Policy Survey of Older Adults in 10 Countries — Quick Stats</title>
+      <link>https://www.cihi.ca/sites/default/files/document/cmwf-2024-quick-stats-en.xlsx</link>
+      <description>7 tables present selected results from the Commonwealth Fund&apos;s 2024 International Health Policy Survey of the general population age 65+, which was conducted in 10.</description>
+      <pubDate>Thu, 26 Jun 2025 13:43:25 GMT</pubDate>
+    </item>
     <item>
       <title>Wait Times for Priority Procedures in Canada, 2008 to 2024 — Data Tables</title>
       <link>https://www.cihi.ca/sites/default/files/document/wait-times-priority-procedures-in-canada-2025-data-tables-en.xlsx</link>
