@@ -3,7 +3,13 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Fri, 22 Aug 2025 00:57:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 00:53:12 GMT</lastBuildDate>
+    <item>
+      <title>DAD and NACRS Provisional Data Timeliness, 2025–2026 — Data Tables</title>
+      <link>https://www.cihi.ca/sites/default/files/document/dad-nacrs-provisional-data-timeliness-2025-2026-data-tables-en.xlsx</link>
+      <description>These data tables provide metrics of the timeliness of 2025–2026 Discharge Abstract Database (DAD) and National Ambulatory Care Reporting System (NACRS) data.</description>
+      <pubDate>Fri, 29 Aug 2025 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Cost of a Standard Day in Long-Term Care, 2019–2020 to 2023–2024</title>
       <link>https://www.cihi.ca/en/system/files?file=document/cost-standard-day-in-long-term-care-2019-2023-data-tables-en.xlsx</link>
