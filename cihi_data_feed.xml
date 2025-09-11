@@ -3,7 +3,13 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Sat, 30 Aug 2025 00:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 00:55:18 GMT</lastBuildDate>
+    <item>
+      <title>CIHI Mental Health and Substance Use Diagnosis Code Groupings for Selected Indicators</title>
+      <link>https://www.cihi.ca/sites/default/files/document/mental-health-substance-use-diagnosis-code-groupings-en.xlsx</link>
+      <description>This table provides diagnosis code groupings used to categorize episodes of care to broad mental health and substance use disorder categories for selected publicly reported CIHI indicators.</description>
+      <pubDate>Wed, 10 Sep 2025 12:22:21 GMT</pubDate>
+    </item>
     <item>
       <title>DAD and NACRS Provisional Data Timeliness, 2025–2026 — Data Tables</title>
       <link>https://www.cihi.ca/sites/default/files/document/dad-nacrs-provisional-data-timeliness-2025-2026-data-tables-en.xlsx</link>
