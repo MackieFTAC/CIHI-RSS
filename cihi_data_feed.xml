@@ -3,7 +3,13 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Thu, 11 Sep 2025 00:55:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 00:53:11 GMT</lastBuildDate>
+    <item>
+      <title>NACRS Emergency Department Visits and Lengths of Stay by Province/Territory, 2024–2025 (Q1 to Q4)</title>
+      <link>https://www.cihi.ca/sites/default/files/document/emergency-department-visits-apr-2024-mar-2025-data-tables-en.xlsx</link>
+      <description>The final release of 2024–2025 information on emergency department (ED) visits and lengths of stay, based on data submitted to the National Ambulatory Care Reporting System (NACRS).</description>
+      <pubDate>Thu, 11 Sep 2025 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>CIHI Mental Health and Substance Use Diagnosis Code Groupings for Selected Indicators</title>
       <link>https://www.cihi.ca/sites/default/files/document/mental-health-substance-use-diagnosis-code-groupings-en.xlsx</link>
