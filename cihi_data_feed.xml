@@ -3,7 +3,13 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Fri, 12 Sep 2025 00:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 00:54:45 GMT</lastBuildDate>
+    <item>
+      <title>Profile of Residents in Residential and Hospital-Based Continuing Care, 2024–2025</title>
+      <link>https://www.cihi.ca/sites/default/files/document/residential-hospital-based-continuing-care-ltc-quick-stats-2024-2025-en.xlsx</link>
+      <description>These data tables provide a profile of residents of submitting residential care (commonly known as long-term care homes) and hospital-based continuing care facilities in 2024–2025.</description>
+      <pubDate>Thu, 25 Sep 2025 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>NACRS Emergency Department Visits and Lengths of Stay by Province/Territory, 2024–2025 (Q1 to Q4)</title>
       <link>https://www.cihi.ca/sites/default/files/document/emergency-department-visits-apr-2024-mar-2025-data-tables-en.xlsx</link>
