@@ -3,7 +3,67 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Fri, 31 Oct 2025 00:58:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 00:58:44 GMT</lastBuildDate>
+    <item>
+      <title>National Health Expenditure Trends, 2025: Data Tables — Series E</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-e-2025-en.zip</link>
+      <description>​This series of data tables contains estimates of total provincial/territorial government health expenditures by age, sex, province/territory and Canada.</description>
+      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Health Expenditure Trends, 2025: Data Tables — Series D2</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-d2-2025-en.xlsx</link>
+      <description>This series of data tables contains information on private-sector health expenditure, by use of funds and province/territory.​</description>
+      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Health Expenditure Trends, 2025: Data Tables — Series A</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-a-2025-en.xlsx</link>
+      <description>​This series of data tables contains summary data of health expenditure in Canada.</description>
+      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spending Trends in Health Service Delivery, 2025 — Data Tables</title>
+      <link>https://www.cihi.ca/sites/default/files/document/spending-trends-health-service-delivery-2014-2023-data-tables-en.xlsx</link>
+      <description>The data tables contain detailed spending information and trends in Canada as well as the number of beds and hours worked from 2014 to 2023. These tables replace the Trends in Hospital Spending data tables</description>
+      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Health Expenditure Trends, 2025 — Open Data</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-open-data-2025-en.xlsx</link>
+      <description>This health spending data from CIHI&apos;s National Health Expenditure Database (NHEX) is provided to facilitate your research and analysis.</description>
+      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Health Expenditure Trends, 2025: Data Tables — Series D3</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-d3-2025-en.xlsx</link>
+      <description>​This series of data tables contains information on public-sector health expenditure, by use of funds and province/territory.</description>
+      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Health Expenditure Trends, 2025: Data Tables — Series D4</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-d4-2025-en.xlsx</link>
+      <description>​This series of data tables contains information on provincial/territorial government health expenditure by use of funds and province/territory.</description>
+      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Health Expenditure Trends, 2025: Data Tables — Series D1</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-d1-2025-en.xlsx</link>
+      <description>​This series of data tables contains information on total health expenditure, by use of funds and province/territory.</description>
+      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Health Expenditure Trends, 2025: Data Tables — Series C</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-c-2025-en.xlsx</link>
+      <description>​This series of data tables contains information on health expenditure by use of funds and source of finance in Canada.</description>
+      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Health Expenditure Trends, 2025: Data Tables — Series B</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-b-2025-en.xlsx</link>
+      <description>​This series of data tables contains information on total health expenditure by source of finance, province/territory and Canada.</description>
+      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Pharmacists in Canada, 2024 —  Data Tables</title>
       <link>https://www.cihi.ca/sites/default/files/document/pharmacists-in-canada-2015-2024-data-tables-en.xlsx</link>
@@ -243,30 +303,6 @@
       <link>https://www.cihi.ca/sites/default/files/document/drug-program-data-tables-en.xlsx</link>
       <description>Public drug plans/programs provide drug coverage for a specific population. Federal, provincial and territorial governments offer many different drug plans/programs, most of which have defined criteria for eligibility that include things like age, income…</description>
       <pubDate>Thu, 23 Jan 2025 15:53:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reimbursement Policies in the Pharmaceutical Data Tool</title>
-      <link>https://www.cihi.ca/sites/default/files/document/reimbursement-policies-data-tables-en.xlsx</link>
-      <description>Reimbursement policies specify the allowable limits that are placed on the costs for prescription drugs. These can include policies and limitations related to ingredient pricing, the maximum cost of generic drugs, coverage of drugs with lower-cost…</description>
-      <pubDate>Thu, 23 Jan 2025 15:41:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Markup Policies in the Pharmaceutical Data Tool</title>
-      <link>https://www.cihi.ca/sites/default/files/document/markup-policies-data-tables-en.xlsx</link>
-      <description>Markup policies outline the maximum amount a pharmacy can add to the cost of a drug or ingredient, above the original cost. This amount is usually stated as a percentage of the cost.</description>
-      <pubDate>Thu, 23 Jan 2025 15:27:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Professional Fees in the Pharmaceutical Data Tool</title>
-      <link>https://www.cihi.ca/sites/default/files/document/professional-fees-data-tables-en.xlsx</link>
-      <description>Professional fees are the amount paid to a service provider for their services. They’re typically paid to a pharmacist and include dispensing fees, compounding fees or any other special service fees. Each jurisdiction has its own policies for these fees.</description>
-      <pubDate>Thu, 23 Jan 2025 14:25:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Treatment of End-Stage Organ Failure in Canada, Canadian Organ Replacement Register, 2014 to 2023: Dialysis and Pre-emptive Kidney Transplant — Data Tables</title>
-      <link>https://www.cihi.ca/sites/default/files/document/dialysis-and-preemptive-kidney-transplant-2014-2023-data-tables-en.xlsx</link>
-      <description>These data tables contain information about trends in dialysis and pre-emptive transplantation for end-stage kidney disease patients, including incidence, prevalence and survival.</description>
-      <pubDate>Wed, 18 Dec 2024 22:28:49 GMT</pubDate>
     </item>
   </channel>
 </rss>
