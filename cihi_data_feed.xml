@@ -3,7 +3,13 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Thu, 27 Nov 2025 00:58:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 00:57:32 GMT</lastBuildDate>
+    <item>
+      <title>National Health Expenditure Trends, 2025: Data Tables — Appendices A to D</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-appendices-a-d-2025-en.xlsx</link>
+      <description>These data tables provide supplemental information related to CIHI&apos;s National Health Expenditure Database (NHEX) and include data on GDP, price indices and population.</description>
+      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>National Health Expenditure Trends, 2025: Data Tables — Series E</title>
       <link>https://www.cihi.ca/sites/default/files/document/nhex-series-e-2025-en.zip</link>
@@ -297,12 +303,6 @@
       <link>https://www.cihi.ca/sites/default/files/document/spending-biologic-drugs-pharm-data-tool-data-tables-en.xlsx</link>
       <description>Biologic drugs, which are derived from living organisms, are structurally more complex and more expensive than traditional pharmaceuticals. Spending on biologics continues to increase in Canada, which has ranked third among Organisation for Economic Co-…</description>
       <pubDate>Thu, 23 Jan 2025 15:55:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Drug Programs in the Pharmaceutical Data Tool</title>
-      <link>https://www.cihi.ca/sites/default/files/document/drug-program-data-tables-en.xlsx</link>
-      <description>Public drug plans/programs provide drug coverage for a specific population. Federal, provincial and territorial governments offer many different drug plans/programs, most of which have defined criteria for eligibility that include things like age, income…</description>
-      <pubDate>Thu, 23 Jan 2025 15:53:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
