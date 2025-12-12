@@ -3,7 +3,13 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Fri, 28 Nov 2025 00:57:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 01:02:39 GMT</lastBuildDate>
+    <item>
+      <title>Health Workforce in Canada, 2024 — Quick Stats</title>
+      <link>https://www.cihi.ca/sites/default/files/document/health-workforce-quickstats-2024-data-tables-en.xlsx</link>
+      <description>Health Workforce in Canada, 2024 — Quick Stats contains data on the supply, workforce, inflow/outflow and provincial and territorial trends of Canada’s health workforce in the Quick Stats tool. The file currently contains information on physicians,…</description>
+      <pubDate>Thu, 11 Dec 2025 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>National Health Expenditure Trends, 2025: Data Tables — Appendices A to D</title>
       <link>https://www.cihi.ca/sites/default/files/document/nhex-appendices-a-d-2025-en.xlsx</link>
@@ -297,12 +303,6 @@
       <link>https://www.cihi.ca/sites/default/files/document/spending-high-cost-drugs-pharm-data-tool-data-tables-en.xlsx</link>
       <description>Spending on high-cost chemicals (those with an average cost of $10,000 or more per person per year) accounts for a large proportion of total public drug program spending. Beneficiaries for whom a public drug program paid $10,000 or more can typically be…</description>
       <pubDate>Thu, 23 Jan 2025 15:58:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spending on Biologic Drugs in the Pharmaceutical Data Tool</title>
-      <link>https://www.cihi.ca/sites/default/files/document/spending-biologic-drugs-pharm-data-tool-data-tables-en.xlsx</link>
-      <description>Biologic drugs, which are derived from living organisms, are structurally more complex and more expensive than traditional pharmaceuticals. Spending on biologics continues to increase in Canada, which has ranked third among Organisation for Economic Co-…</description>
-      <pubDate>Thu, 23 Jan 2025 15:55:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
