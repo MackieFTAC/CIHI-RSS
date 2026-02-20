@@ -3,7 +3,25 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Wed, 28 Jan 2026 01:05:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 01:16:22 GMT</lastBuildDate>
+    <item>
+      <title>Inpatient Hospitalization, Surgery and Newborn Statistics, 2024-2025</title>
+      <link>https://www.cihi.ca/sites/default/files/document/dad-hmdb-childbirth-2024-2025-data-tables-en.xlsx</link>
+      <description>​​These data tables contain information on hospitalization rates, in-hospital births and the top reasons for hospitalizations and surgeries from the DAD and HMDB databases.</description>
+      <pubDate>Thu, 19 Feb 2026 14:24:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hospitalization and Childbirth, 1995–1996 to 2024-2025 — Supplementary Statistics</title>
+      <link>https://www.cihi.ca/sites/default/files/document/hospital-childbirth-1995-2024-supplementary-data-tables-en.xlsx</link>
+      <description>​These data tables contain information on hospitalization volumes, lengths of stay and standardized rates. Tables also include childbirth indicators by place of residence.</description>
+      <pubDate>Thu, 19 Feb 2026 14:20:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>NACRS Emergency Department Visits and Lengths of Stay by Province/Territory, 2025–2026  (Q1 to Q2) — Provisional Data</title>
+      <link>https://www.cihi.ca/sites/default/files/document/emergency-department-visits-apr-sep-2025-provisional-data-tables-en.xlsx</link>
+      <description>Release of 2025–2026 provisional information on emergency department (ED) visits and lengths of stay by province and territory, based on data submitted to the National Ambulatory Care Reporting System (NACRS).</description>
+      <pubDate>Thu, 19 Feb 2026 13:39:34 GMT</pubDate>
+    </item>
     <item>
       <title>Hip and Knee Replacements in Canada: CJRR Data Tables, 2022–2023 and 2023–2024</title>
       <link>https://www.cihi.ca/sites/default/files/document/hip-knee-replacements-in-canada-cjrr-data-tables-2022-2024-en.pdf</link>
@@ -285,24 +303,6 @@
       <link>https://www.cihi.ca/sites/default/files/document/cihi-hospital-frailty-risk-measure-2022-2023-to-2023-2024-data-tables-en.xlsx</link>
       <description>This data table provides aggregated results for the CIHI Hospital Frailty Risk Measure (HFRM) by hospital, health region, province/territory and all jurisdictions for 2022–2023 to 2023–2024.</description>
       <pubDate>Thu, 10 Apr 2025 12:13:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Induced Abortions Reported in Canada — Annual data tables</title>
-      <link>https://www.cihi.ca/sites/default/files/document/induced-abortions-canada-annual-data-tables-en.zip</link>
-      <description>These tables contain information on induced abortions in Canada from 2015 onward.</description>
-      <pubDate>Thu, 20 Mar 2025 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Induced Abortions Reported in Canada in 2023</title>
-      <link>https://www.cihi.ca/sites/default/files/document/induced-abortions-reported-in-canada-2023-data-tables-en.xlsx</link>
-      <description>​These data tables provide information on induced abortions performed in a hospital or in a non-hospital setting in Canada. Volume breakdowns by age group and method of abortion are also included.</description>
-      <pubDate>Thu, 20 Mar 2025 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Profile of Clients in Home Care, 2023–2024</title>
-      <link>https://www.cihi.ca/sites/default/files/document/home-care-quickstats-2023-2024-data-tables-en.xlsx</link>
-      <description>HCRS Quick Stats provide a profile of clients in home care in 2023-2024.</description>
-      <pubDate>Thu, 13 Mar 2025 12:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
