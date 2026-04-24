@@ -3,7 +3,19 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Fri, 20 Feb 2026 01:16:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 01:51:58 GMT</lastBuildDate>
+    <item>
+      <title>How Canada Compares: Results From the Commonwealth Fund’s 2025 International Health Policy Survey of Primary Care Physicians in 10 Countries — Quick Stats</title>
+      <link>https://www.cihi.ca/sites/default/files/document/cmwf-2025-quick-stats-en.xlsx</link>
+      <description>9 tables present selected results from the Commonwealth Fund’s 2025 International Health Policy Survey of Primary Care Physicians, which was conducted in 10 countries.</description>
+      <pubDate>Thu, 23 Apr 2026 13:42:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Canada Compares: Results From the Commonwealth Fund’s 2025 International Health Policy Survey of Primary Care Physicians in 10 Countries — Data Tables</title>
+      <link>https://www.cihi.ca/sites/default/files/document/cmwf-2025-data-tables-en.xlsx</link>
+      <description>This file contains about 88 sets of tables presenting results from the Commonwealth Fund’s 2025 International Health Policy Survey of Primary Care Physicians, which was conducted in 10 countries.</description>
+      <pubDate>Thu, 23 Apr 2026 13:38:04 GMT</pubDate>
+    </item>
     <item>
       <title>Inpatient Hospitalization, Surgery and Newborn Statistics, 2024-2025</title>
       <link>https://www.cihi.ca/sites/default/files/document/dad-hmdb-childbirth-2024-2025-data-tables-en.xlsx</link>
@@ -291,18 +303,6 @@
       <link>https://www.cihi.ca/sites/default/files/document/beds-staffed-and-in-operation-2023-2024-data-tables-en.xlsx</link>
       <description>These figures represent the beds and cribs available and staffed to provide services to inpatients at the required type and level of service during or at the beginning of the fiscal year.</description>
       <pubDate>Thu, 22 May 2025 18:31:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Care for Children and Youth With Mental Disorders — Data Tables</title>
-      <link>https://www.cihi.ca/sites/default/files/document/care-children-youth-with-mental-disorders-data-tables-en.xlsx</link>
-      <description>The data tables contain information on emergency department visits, hospitalizations, physician visits and medications for children and youth age 5 to 24 with mental disorders.</description>
-      <pubDate>Thu, 01 May 2025 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CIHI Hospital Frailty Risk Measure, 2022-2023 to 2023-2024 - Data Tables</title>
-      <link>https://www.cihi.ca/sites/default/files/document/cihi-hospital-frailty-risk-measure-2022-2023-to-2023-2024-data-tables-en.xlsx</link>
-      <description>This data table provides aggregated results for the CIHI Hospital Frailty Risk Measure (HFRM) by hospital, health region, province/territory and all jurisdictions for 2022–2023 to 2023–2024.</description>
-      <pubDate>Thu, 10 Apr 2025 12:13:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
