@@ -3,7 +3,19 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Fri, 24 Apr 2026 01:51:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 02:24:50 GMT</lastBuildDate>
+    <item>
+      <title>Hospital Beds Staffed and In Operation, 2024–2025</title>
+      <link>https://www.cihi.ca/sites/default/files/document/hospital-beds-2024-2025-data-tables-en.xlsx</link>
+      <description>These figures represent the beds and cribs available and staffed to provide services to inpatients at the required type and level of service during or at the beginning of the fiscal year.</description>
+      <pubDate>Thu, 14 May 2026 14:36:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Formulary Coverage in the Pharmaceutical Data Tool</title>
+      <link>https://www.cihi.ca/sites/default/files/document/formulary-coverage-data-tool-data-table-en.xlsx</link>
+      <description>A formulary is a list of the drugs covered for eligible populations, and the type of coverage provided. Every public drug plan or program in Canada has a unique formulary.</description>
+      <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>How Canada Compares: Results From the Commonwealth Fund’s 2025 International Health Policy Survey of Primary Care Physicians in 10 Countries — Quick Stats</title>
       <link>https://www.cihi.ca/sites/default/files/document/cmwf-2025-quick-stats-en.xlsx</link>
@@ -291,18 +303,6 @@
       <link>https://www.cihi.ca/sites/default/files/document/wait-times-priority-procedures-in-canada-2025-data-tables-en.xlsx</link>
       <description>​​This data table contains information on wait times for hip and knee replacements, hip fracture repair, radiation therapy, cataract surgery and other priority procedures.</description>
       <pubDate>Thu, 12 Jun 2025 13:13:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Summary Statistics on Organ Transplants, Wait-Lists, and Donors, 2024</title>
-      <link>https://www.cihi.ca/sites/default/files/document/corr-transplant-wait-list-donor-stats-2024-data-tables-en.xlsx</link>
-      <description>​Data based on aggregate-level statistics received from Canada&apos;s 12 organ donation organizations.</description>
-      <pubDate>Thu, 05 Jun 2025 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hospital Beds Staffed and In Operation, 2023–2024</title>
-      <link>https://www.cihi.ca/sites/default/files/document/beds-staffed-and-in-operation-2023-2024-data-tables-en.xlsx</link>
-      <description>These figures represent the beds and cribs available and staffed to provide services to inpatients at the required type and level of service during or at the beginning of the fiscal year.</description>
-      <pubDate>Thu, 22 May 2025 18:31:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
