@@ -3,7 +3,13 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Fri, 15 May 2026 02:24:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 02:36:05 GMT</lastBuildDate>
+    <item>
+      <title>Summary Statistics on Organ Transplants, Wait-Lists, and Donors, 2025</title>
+      <link>https://www.cihi.ca/sites/default/files/document/summary-stats-organ-transplants-wait-lists-donors-data-tables-2025-en.xlsx</link>
+      <description>​Data based on aggregate-level statistics received from 10 Canadian organ donation organizations (ODOs).</description>
+      <pubDate>Thu, 04 Jun 2026 12:54:31 GMT</pubDate>
+    </item>
     <item>
       <title>Hospital Beds Staffed and In Operation, 2024–2025</title>
       <link>https://www.cihi.ca/sites/default/files/document/hospital-beds-2024-2025-data-tables-en.xlsx</link>
@@ -297,12 +303,6 @@
       <link>https://www.cihi.ca/sites/default/files/document/cmwf-2024-quick-stats-en.xlsx</link>
       <description>7 tables present selected results from the Commonwealth Fund&apos;s 2024 International Health Policy Survey of the general population age 65+, which was conducted in 10.</description>
       <pubDate>Thu, 26 Jun 2025 13:43:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wait Times for Priority Procedures in Canada, 2008 to 2024 — Data Tables</title>
-      <link>https://www.cihi.ca/sites/default/files/document/wait-times-priority-procedures-in-canada-2025-data-tables-en.xlsx</link>
-      <description>​​This data table contains information on wait times for hip and knee replacements, hip fracture repair, radiation therapy, cataract surgery and other priority procedures.</description>
-      <pubDate>Thu, 12 Jun 2025 13:13:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
