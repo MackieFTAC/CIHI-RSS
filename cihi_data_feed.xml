@@ -3,7 +3,13 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Fri, 05 Jun 2026 02:36:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:31:06 GMT</lastBuildDate>
+    <item>
+      <title>Wait Times for Priority Procedures in Canada, 2008 to 2025 — Data Tables</title>
+      <link>https://www.cihi.ca/sites/default/files/document/wait-times-priority-procedures-in-canada-2008-2025-data-tables-en.xlsx</link>
+      <description>This indicator provides wait times and volumes for priority procedures between 2008 and 2025. Wait times and volumes are provided at national, provincial and regional levels for 2 procedures: hip replacement and knee replacement.</description>
+      <pubDate>Thu, 25 Jun 2026 17:42:53 GMT</pubDate>
+    </item>
     <item>
       <title>Summary Statistics on Organ Transplants, Wait-Lists, and Donors, 2025</title>
       <link>https://www.cihi.ca/sites/default/files/document/summary-stats-organ-transplants-wait-lists-donors-data-tables-2025-en.xlsx</link>
@@ -297,12 +303,6 @@
       <link>https://www.cihi.ca/sites/default/files/document/health-workforce-quickstats-2023-data-tables-en.xlsx</link>
       <description>Interactive tool to visually compare trends for Canada’s health workforce by profession, plus vacancies and staffing indicators. Hospital staffing indicators updated as of June 26, 2025.</description>
       <pubDate>Thu, 26 Jun 2025 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Canada Compares: Results From the Commonwealth Fund’s 2024 International Health Policy Survey of Older Adults in 10 Countries — Quick Stats</title>
-      <link>https://www.cihi.ca/sites/default/files/document/cmwf-2024-quick-stats-en.xlsx</link>
-      <description>7 tables present selected results from the Commonwealth Fund&apos;s 2024 International Health Policy Survey of the general population age 65+, which was conducted in 10.</description>
-      <pubDate>Thu, 26 Jun 2025 13:43:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
