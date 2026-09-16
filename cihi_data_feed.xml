@@ -3,7 +3,13 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Sat, 29 Aug 2026 04:53:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 02:30:45 GMT</lastBuildDate>
+    <item>
+      <title>Cost of a Standard Day in Long-Term Care, 2019–2020 to 2024–2025</title>
+      <link>https://www.cihi.ca/system/files/document/cost-standard-day-in-long-term-care-adjusted-2019-2024-data-tables-en.xlsx</link>
+      <description>These 2 data tables provide adjusted and unadjusted results for the Cost of a Standard Day (CSD) in Long-Term Care indicator for 2019–2020 to 2024–2025.</description>
+      <pubDate>Thu, 27 Aug 2026 18:43:05 GMT</pubDate>
+    </item>
     <item>
       <title>DAD and NACRS Provisional Data Timeliness, 2026–2027 — Data Tables</title>
       <link>https://www.cihi.ca/sites/default/files/document/dad-nacrs-provisional-data-timeliness-2026-2027-data-tables-en.xlsx</link>
@@ -297,12 +303,6 @@
       <link>https://www.cihi.ca/sites/default/files/document/nursing-in-canada-2015-2024-data-tables-en.xlsx</link>
       <description>​​​These data tables report on 10 years of supply, workforce, demographic, education and employment trends of Canada’s nursing workforce.</description>
       <pubDate>Fri, 25 Jul 2025 02:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Injury and Trauma Emergency Department and Hospitalization Statistics, 2022–2023</title>
-      <link>https://www.cihi.ca/sites/default/files/document/injury-trauma-emergency-dept-hospitalizations-2022-2023-data-tables-en.xlsx</link>
-      <description>Injury and Trauma Emergency Department and Hospitalization Statistics, 2022–2023</description>
-      <pubDate>Thu, 17 Jul 2025 04:01:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
