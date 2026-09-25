@@ -3,7 +3,25 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Fri, 18 Sep 2026 02:20:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 02:38:36 GMT</lastBuildDate>
+    <item>
+      <title>Risk-Adjustment Model Coefficients for Selected Acute Care Indicators</title>
+      <link>https://www.cihi.ca/sites/default/files/document/risk-adjustment-model-coefficients-selected-acute-care-indicators-data-tables-en.xlsx</link>
+      <description>This workbook contains annual regression coefficients and their P values for risk-adjusted indicators. Coding specifications, such as ICD-10-CA codes and diagnosis typing qualifiers, are provided in the Model Specifications — Risk Factor Definitions…</description>
+      <pubDate>Thu, 24 Sep 2026 15:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Risk-Adjustment Model Coefficients for Selected MHSU Indicators</title>
+      <link>https://www.cihi.ca/sites/default/files/document/risk-adjustment-model-coefficients-for-mhsu-indicators-2015-2025-en.xlsx</link>
+      <description>This workbook contains annual regression coefficients and their P values for risk-adjusted indicators.</description>
+      <pubDate>Thu, 24 Sep 2026 15:33:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hospital Harm Results, 2014–2015 to 2025–2026</title>
+      <link>https://www.cihi.ca/sites/default/files/document/hospital-harm-results-2014-2025-data-tables-en.xlsx</link>
+      <description>​The Hospital Harm indicator captures occurrences of unintended harm during a hospital stay that could have been potentially prevented by implementing known best practices. The indicator includes 31 clinical groups that fall under 4 categories of harm:…</description>
+      <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>NACRS Emergency Department Visits and Lengths of Stay by Province/Territory, 2025–2026 (Q1 to Q4)</title>
       <link>https://www.cihi.ca/sites/default/files/document/emergency-department-visits-apr-2025-mar-2026-data-tables-en.xlsx</link>
@@ -285,24 +303,6 @@
       <link>https://www.cihi.ca/sites/default/files/document/emergency-department-visits-apr-2024-mar-2025-data-tables-en.xlsx</link>
       <description>The final release of 2024–2025 information on emergency department (ED) visits and lengths of stay, based on data submitted to the National Ambulatory Care Reporting System (NACRS).</description>
       <pubDate>Thu, 11 Sep 2025 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CIHI Mental Health and Substance Use Diagnosis Code Groupings for Selected Indicators</title>
-      <link>https://www.cihi.ca/sites/default/files/document/mental-health-substance-use-diagnosis-code-groupings-en.xlsx</link>
-      <description>This table provides diagnosis code groupings used to categorize episodes of care to broad mental health and substance use disorder categories for selected publicly reported CIHI indicators.</description>
-      <pubDate>Wed, 10 Sep 2025 12:22:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>DAD and NACRS Provisional Data Timeliness, 2025–2026 — Data Tables</title>
-      <link>https://www.cihi.ca/sites/default/files/document/dad-nacrs-provisional-data-timeliness-2025-2026-data-tables-en.xlsx</link>
-      <description>These data tables provide metrics of the timeliness of 2025–2026 Discharge Abstract Database (DAD) and National Ambulatory Care Reporting System (NACRS) data.</description>
-      <pubDate>Fri, 29 Aug 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cost of a Standard Day in Long-Term Care, 2019–2020 to 2023–2024</title>
-      <link>https://www.cihi.ca/en/system/files?file=document/cost-standard-day-in-long-term-care-2019-2023-data-tables-en.xlsx</link>
-      <description>These 2 data tables provide adjusted and unadjusted results for the Cost of a Standard Day (CSD) in Long-Term Care indicator for 2019–2020 to 2023–2024.</description>
-      <pubDate>Thu, 21 Aug 2025 12:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
