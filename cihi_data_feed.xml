@@ -3,7 +3,67 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Fri, 25 Sep 2026 02:38:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 03:40:41 GMT</lastBuildDate>
+    <item>
+      <title>Canadians With a Regular Health Provider in an Interprofessional Primary Care Team, 2024–2025 — Supplementary Data Tables</title>
+      <link>https://www.cihi.ca/sites/default/files/document/interprofessional-primary-care-team-2024-2025-data-tables-en.xlsx</link>
+      <description>This indicator measures the percentage of Canadians who have a regular health provider in an interprofessional primary care team. The latest indicator results are for the 2024–2025 reporting year. Fiscal years start on April 1 and include all days up to…</description>
+      <pubDate>Thu, 29 Oct 2026 17:19:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supply, Distribution and Migration of Physicians in Canada, 2001-2025 — Historical Data</title>
+      <link>https://www.cihi.ca/sites/default/files/document/supply-distribution-migration-physicians-in-canada-2001-2025-data-tables-en.xlsx</link>
+      <description>This table provides 25 years of supply and distribution data for physicians in Canada by specialty, including demographic, education and migration information.</description>
+      <pubDate>Thu, 29 Oct 2026 14:34:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supply, Distribution and Migration of Physicians in Canada, 2025 — Data Tables</title>
+      <link>https://www.cihi.ca/sites/default/files/document/supply-distribution-migration-physicians-in-canada-2025-data-tables-en.xlsx</link>
+      <description>​These data tables provide information on the supply and distribution of physicians in Canada by specialty, including demographic, education and migration information.</description>
+      <pubDate>Thu, 29 Oct 2026 14:30:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Physician Database Historical Utilization, 2015-2024  — Data Tables</title>
+      <link>https://www.cihi.ca/sites/default/files/document/npdb-historical-utilization-2015-2024-data-tables-en.xlsx</link>
+      <description>These data tables provide historical information on utilization of physician services in Canada, using data from the National Physician Database (NPDB).</description>
+      <pubDate>Thu, 29 Oct 2026 14:26:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Physician Database Historical Utilization, 1996 to 2014 — Data Tables</title>
+      <link>https://www.cihi.ca/sites/default/files/document/npdb-historical-utilization-1996-2014-data-tables-en.xlsx</link>
+      <description>​These data tables provide historical information on utilization of physician services in Canada, using data from the National Physician Database (NPDB).</description>
+      <pubDate>Thu, 29 Oct 2026 14:22:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Physician Database Historical Payments, 1999-2024 — Data Tables</title>
+      <link>https://www.cihi.ca/sites/default/files/document/npdb-historical-payments-1999-2024-data-tables-en.xlsx</link>
+      <description>​​​These data tables provide historical information on payments for physician services in Canada, using data from the National Physician Database (NPDB).</description>
+      <pubDate>Thu, 29 Oct 2026 14:18:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Physician Database — Utilization Data, 2024–2025</title>
+      <link>https://www.cihi.ca/sites/default/files/document/npdb-utilization-data-tables-2024-en.xlsx</link>
+      <description>​These data tables provide information on physician service utilization in Canada, using data from the National Physician Database (NPDB).</description>
+      <pubDate>Thu, 29 Oct 2026 14:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Physician Database — Payments Data, 2024–2025</title>
+      <link>https://www.cihi.ca/sites/default/files/document/npdb-payments-data-tables-2024-en.xlsx</link>
+      <description>​These data tables provide information on payments for physician services in Canada, using data from the National Physician Database (NPDB).</description>
+      <pubDate>Thu, 29 Oct 2026 14:09:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Personal Support Workers in Alberta, 2025 — Data Tables</title>
+      <link>https://www.cihi.ca/sites/default/files/document/personal-support-workers-in-alberta-2025-data-tables-en.xlsx</link>
+      <description>Personal Support Workers in Alberta, 2025, published by the Canadian Institute for Health Information (CIHI), provides insights on 6 years of supply, employment and demographic trends of personal support workers (PSWs) in Alberta.</description>
+      <pubDate>Thu, 29 Oct 2026 13:08:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pharmacists in Canada, 2025 —  Data Tables</title>
+      <link>https://www.cihi.ca/sites/default/files/document/pharmacists-in-canada-2016-2025-data-tables-en.xlsx</link>
+      <description>​These data tables report on the supply, workforce, demographics, education and employment trends of Canada’s pharmacist workforce.</description>
+      <pubDate>Thu, 29 Oct 2026 12:57:31 GMT</pubDate>
+    </item>
     <item>
       <title>Risk-Adjustment Model Coefficients for Selected Acute Care Indicators</title>
       <link>https://www.cihi.ca/sites/default/files/document/risk-adjustment-model-coefficients-selected-acute-care-indicators-data-tables-en.xlsx</link>
@@ -243,66 +303,6 @@
       <link>https://www.cihi.ca/sites/default/files/document/occupational-therapists-in-canada-2024-data-tables-en.xlsx</link>
       <description>​These data tables report on the supply, workforce, demographics, education and employment trends of Canada’s occupational therapist workforce.</description>
       <pubDate>Thu, 30 Oct 2025 20:36:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>National Physician Database Historical Payments, 1996-2023 — Data Tables</title>
-      <link>https://www.cihi.ca/sites/default/files/document/npdb-historical-payments-1999-2023-data-tables-en.xlsx</link>
-      <description>​​​These data tables provide historical information on payments for physician services in Canada, using data from the National Physician Database (NPDB).</description>
-      <pubDate>Thu, 30 Oct 2025 13:56:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>National Physician Database — Payments Data, 2023–2024</title>
-      <link>https://www.cihi.ca/sites/default/files/document/npdb-payments-data-tables-2023-en.xlsx</link>
-      <description>​These data tables provide information on payments for physician services in Canada, using data from the National Physician Database (NPDB).</description>
-      <pubDate>Thu, 30 Oct 2025 13:25:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>National Physician Database Historical Utilization, 1996 to 2013 — Data Tables</title>
-      <link>https://www.cihi.ca/sites/default/files/document/npdb-historical-utilization-1996-2013-data-tables-en.xlsx</link>
-      <description>​These data tables provide historical information on utilization of physician services in Canada, using data from the National Physician Database (NPDB).</description>
-      <pubDate>Thu, 30 Oct 2025 13:19:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>National Physician Database — Utilization Data, 2023–2024</title>
-      <link>https://www.cihi.ca/sites/default/files/document/npdb-utilization-data-tables-2023-en.xlsx</link>
-      <description>​These data tables provide information on physician service utilization in Canada, using data from the National Physician Database (NPDB).</description>
-      <pubDate>Thu, 30 Oct 2025 13:15:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>National Physician Database Historical Utilization, 2014-2023  — Data Tables</title>
-      <link>https://www.cihi.ca/sites/default/files/document/npdb-historical-utilization-2014-2023-data-tables-en.xlsx</link>
-      <description>These data tables provide historical information on utilization of physician services in Canada, using data from the National Physician Database (NPDB).</description>
-      <pubDate>Thu, 30 Oct 2025 13:09:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supply, Distribution and Migration of Physicians in Canada, 2024 — Data Tables</title>
-      <link>https://www.cihi.ca/sites/default/files/document/supply-distribution-migration-physicians-in-canada-2024-data-tables-en.xlsx</link>
-      <description>​These data tables provide information on the supply and distribution of physicians in Canada by specialty, including demographic, education and migration information.</description>
-      <pubDate>Thu, 30 Oct 2025 13:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supply, Distribution and Migration of Physicians in Canada, 1971-2000 — Historical Data</title>
-      <link>https://www.cihi.ca/sites/default/files/document/supply-distribution-migration-physicians-in-canada-1971-2000-data-tables-en.xlsx</link>
-      <description>​This table provides 30 years of supply and distribution data for physicians in Canada by specialty, including demographic, education and migration information.</description>
-      <pubDate>Thu, 30 Oct 2025 12:47:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>DAD and NACRS Provisional Data Timeliness, 2025–2026 — Data Tables</title>
-      <link>https://www.cihi.ca/sites/default/files/document/dad-and-nacrs-provisional-data-timeliness-2025-2026-october-2025-en.xlsx</link>
-      <description>These data tables provide metrics of the timeliness of 2025–2026 Discharge Abstract Database (DAD) and National Ambulatory Care Reporting System (NACRS) data.</description>
-      <pubDate>Fri, 29 Aug 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Profile of Residents in Residential and Hospital-Based Continuing Care, 2024–2025</title>
-      <link>https://www.cihi.ca/sites/default/files/document/residential-hospital-based-continuing-care-ltc-quick-stats-2024-2025-en.xlsx</link>
-      <description>These data tables provide a profile of residents of submitting residential care (commonly known as long-term care homes) and hospital-based continuing care facilities in 2024–2025.</description>
-      <pubDate>Thu, 25 Sep 2025 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>NACRS Emergency Department Visits and Lengths of Stay by Province/Territory, 2024–2025 (Q1 to Q4)</title>
-      <link>https://www.cihi.ca/sites/default/files/document/emergency-department-visits-apr-2024-mar-2025-data-tables-en.xlsx</link>
-      <description>The final release of 2024–2025 information on emergency department (ED) visits and lengths of stay, based on data submitted to the National Ambulatory Care Reporting System (NACRS).</description>
-      <pubDate>Thu, 11 Sep 2025 12:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
