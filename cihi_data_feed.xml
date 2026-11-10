@@ -3,7 +3,67 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Fri, 30 Oct 2026 03:40:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:21:24 GMT</lastBuildDate>
+    <item>
+      <title>National Health Expenditure Trends, 2026: Data Tables — Series C</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-c-2026-en.xlsx</link>
+      <description>​This series of data tables contains information on health expenditure by use of funds and source of finance in Canada.</description>
+      <pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Health Expenditure Trends, 2026: Data Tables — Series D2</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-d2-2026-en.xlsx</link>
+      <description>This series of data tables contains information on private-sector health expenditure, by use of funds and province/territory.​</description>
+      <pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Health Expenditure Trends, 2026: Data Tables — Appendices A to D</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-appendices-a-d-2026-en.xlsx</link>
+      <description>These data tables provide supplemental information related to CIHI&apos;s National Health Expenditure Database (NHEX) and include data on GDP, price indices and population.</description>
+      <pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Health Expenditure Trends, 2026: Data Tables — Series D1</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-d1-2026-en.xlsx</link>
+      <description>​This series of data tables contains information on total health expenditure, by use of funds and province/territory.</description>
+      <pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Health Expenditure Trends, 2026 — Open Data</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-open-data-2026-en.xlsx</link>
+      <description>This health spending data from CIHI&apos;s National Health Expenditure Database (NHEX) is provided to facilitate your research and analysis.</description>
+      <pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Health Expenditure Trends, 2026: Data Tables — Series D4</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-d4-2026-en.xlsx</link>
+      <description>​This series of data tables contains information on provincial/territorial government health expenditure by use of funds and province/territory.</description>
+      <pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Health Expenditure Trends, 2026: Data Tables — Series D3</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-d3-2026-en.xlsx</link>
+      <description>​This series of data tables contains information on public-sector health expenditure, by use of funds and province/territory.</description>
+      <pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Health Expenditure Trends, 2026: Data Tables — Series A</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-a-2026-en.xlsx</link>
+      <description>​This series of data tables contains summary data of health expenditure in Canada.</description>
+      <pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Health Expenditure Trends, 2026: Data Tables — Series B</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-b-2026-en.xlsx</link>
+      <description>​This series of data tables contains information on total health expenditure by source of finance, province/territory and Canada.</description>
+      <pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Health Expenditure Trends, 2026: Data Tables — Series E</title>
+      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-e-2026-en.zip</link>
+      <description>​This series of data tables contains estimates of total provincial/territorial government health expenditures by age, sex, province/territory and Canada.</description>
+      <pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Canadians With a Regular Health Provider in an Interprofessional Primary Care Team, 2024–2025 — Supplementary Data Tables</title>
       <link>https://www.cihi.ca/sites/default/files/document/interprofessional-primary-care-team-2024-2025-data-tables-en.xlsx</link>
@@ -243,66 +303,6 @@
       <link>https://www.cihi.ca/sites/default/files/document/nhex-series-a-2025-en.xlsx</link>
       <description>​This series of data tables contains summary data of health expenditure in Canada.</description>
       <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spending Trends in Health Service Delivery, 2025 — Data Tables</title>
-      <link>https://www.cihi.ca/sites/default/files/document/spending-trends-health-service-delivery-2014-2023-data-tables-en.xlsx</link>
-      <description>The data tables contain detailed spending information and trends in Canada as well as the number of beds and hours worked from 2014 to 2023. These tables replace the Trends in Hospital Spending data tables</description>
-      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>National Health Expenditure Trends, 2025 — Open Data</title>
-      <link>https://www.cihi.ca/sites/default/files/document/nhex-open-data-2025-en.xlsx</link>
-      <description>This health spending data from CIHI&apos;s National Health Expenditure Database (NHEX) is provided to facilitate your research and analysis.</description>
-      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>National Health Expenditure Trends, 2025: Data Tables — Series D3</title>
-      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-d3-2025-en.xlsx</link>
-      <description>​This series of data tables contains information on public-sector health expenditure, by use of funds and province/territory.</description>
-      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>National Health Expenditure Trends, 2025: Data Tables — Series D4</title>
-      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-d4-2025-en.xlsx</link>
-      <description>​This series of data tables contains information on provincial/territorial government health expenditure by use of funds and province/territory.</description>
-      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>National Health Expenditure Trends, 2025: Data Tables — Series D1</title>
-      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-d1-2025-en.xlsx</link>
-      <description>​This series of data tables contains information on total health expenditure, by use of funds and province/territory.</description>
-      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>National Health Expenditure Trends, 2025: Data Tables — Series C</title>
-      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-c-2025-en.xlsx</link>
-      <description>​This series of data tables contains information on health expenditure by use of funds and source of finance in Canada.</description>
-      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>National Health Expenditure Trends, 2025: Data Tables — Series B</title>
-      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-b-2025-en.xlsx</link>
-      <description>​This series of data tables contains information on total health expenditure by source of finance, province/territory and Canada.</description>
-      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pharmacists in Canada, 2024 —  Data Tables</title>
-      <link>https://www.cihi.ca/sites/default/files/document/pharmacists-in-canada-2015-2024-data-tables-en.xlsx</link>
-      <description>​These data tables report on the supply, workforce, demographics, education and employment trends of Canada’s pharmacist workforce.</description>
-      <pubDate>Thu, 30 Oct 2025 20:45:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Physiotherapists in Canada, 2024 — Data Tables</title>
-      <link>https://www.cihi.ca/sites/default/files/document/physiotherapists-in-canada-2015-2024-data-tables-en.xlsx</link>
-      <description>These data tables report on the supply, workforce, demographics, education and employment trends of Canada’s physiotherapist workforce.</description>
-      <pubDate>Thu, 30 Oct 2025 20:43:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Occupational Therapists in Canada, 2024 — Data Tables</title>
-      <link>https://www.cihi.ca/sites/default/files/document/occupational-therapists-in-canada-2024-data-tables-en.xlsx</link>
-      <description>​These data tables report on the supply, workforce, demographics, education and employment trends of Canada’s occupational therapist workforce.</description>
-      <pubDate>Thu, 30 Oct 2025 20:36:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
