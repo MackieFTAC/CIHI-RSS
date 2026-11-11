@@ -3,7 +3,13 @@
     <title>CIHI Data Tables RSS Feed</title>
     <link>https://www.cihi.ca/en/access-data-and-reports/data-tables</link>
     <description>Updates on new data tables published by CIHI.</description>
-    <lastBuildDate>Tue, 10 Nov 2026 05:21:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 03:52:35 GMT</lastBuildDate>
+    <item>
+      <title>Spending Trends in Health Service Delivery, 2026 — Data Tables</title>
+      <link>https://www.cihi.ca/sites/default/files/document/spending-trends-health-service-delivery-2015-2024-data-tables-en.xlsx</link>
+      <description>The data tables contain detailed spending information and trends in Canada as well as the number of beds and hours worked from 2015 to 2024. These tables replace the Trends in Hospital Spending data tables.</description>
+      <pubDate>Tue, 10 Nov 2026 21:21:37 GMT</pubDate>
+    </item>
     <item>
       <title>National Health Expenditure Trends, 2026: Data Tables — Series C</title>
       <link>https://www.cihi.ca/sites/default/files/document/nhex-series-c-2026-en.xlsx</link>
@@ -296,12 +302,6 @@
       <title>National Health Expenditure Trends, 2025: Data Tables — Series D2</title>
       <link>https://www.cihi.ca/sites/default/files/document/nhex-series-d2-2025-en.xlsx</link>
       <description>This series of data tables contains information on private-sector health expenditure, by use of funds and province/territory.​</description>
-      <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>National Health Expenditure Trends, 2025: Data Tables — Series A</title>
-      <link>https://www.cihi.ca/sites/default/files/document/nhex-series-a-2025-en.xlsx</link>
-      <description>​This series of data tables contains summary data of health expenditure in Canada.</description>
       <pubDate>Thu, 27 Nov 2025 13:00:00 GMT</pubDate>
     </item>
   </channel>
